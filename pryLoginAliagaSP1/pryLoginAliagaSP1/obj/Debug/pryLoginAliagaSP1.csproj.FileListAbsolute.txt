@@ -1,0 +1,12 @@
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\bin\Debug\pryLoginAliagaSP1.exe.config
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\bin\Debug\pryLoginAliagaSP1.exe
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\bin\Debug\pryLoginAliagaSP1.pdb
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.csproj.AssemblyReference.cache
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.frmLogin.resources
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.Properties.Resources.resources
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.csproj.GenerateResource.cache
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.csproj.CoreCompileInputs.cache
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.exe
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.pdb
+C:\Users\Tomás Cuevas\Desktop\pryLoginAliagaSP1\pryLoginAliagaSP1\obj\Debug\pryLoginAliagaSP1.frmPrincipal.resources
